@@ -24,10 +24,12 @@ a:hover {
     text-decoration: underline;
   }
 
-#content{
+.content{
     background-color: goldenrod;
     justify-content: center;
     min-height: 1000px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 
@@ -76,4 +78,10 @@ hr{
         max-width: 400px;
     
     
+    }
+
+    .kep{
+        border-color: #ff0;
+        width: 350px;
+        float: right;
     }
